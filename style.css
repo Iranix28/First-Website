@@ -1,0 +1,32 @@
+/* File for External CSS */
+
+body {
+    margin: 0;
+}
+
+div {
+    padding: 0 50px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+}
+h2 {
+    background-color: antiquewhite;
+}
+p {
+    background-color: antiquewhite;
+}
+img {
+    border-style: dashed;
+    border-radius: 50px;
+    border-width: 20;
+}
+
+.secondary-p-style {
+    font-size: larger;
+    font-weight: bold;
+    background-color: white;
+}
