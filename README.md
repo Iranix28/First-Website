@@ -1,2 +1,4 @@
 # First-Website
 The first website I made for my Advanced Programming class
+The users should not have any interaction with the code itself
+It is just a website taht lets users read and and obtain information about a specicif person
